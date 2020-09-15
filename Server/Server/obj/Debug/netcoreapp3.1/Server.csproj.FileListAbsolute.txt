@@ -1,0 +1,13 @@
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\obj\Debug\netcoreapp3.1\Server.csprojAssemblyReference.cache
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfoInputs.cache
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\obj\Debug\netcoreapp3.1\Server.AssemblyInfo.cs
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\obj\Debug\netcoreapp3.1\Server.csproj.CoreCompileInputs.cache
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\bin\Debug\netcoreapp3.1\Server.exe
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\bin\Debug\netcoreapp3.1\Server.deps.json
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.json
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\bin\Debug\netcoreapp3.1\Server.runtimeconfig.dev.json
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\bin\Debug\netcoreapp3.1\Server.dll
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\bin\Debug\netcoreapp3.1\Server.pdb
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\obj\Debug\netcoreapp3.1\Server.dll
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\obj\Debug\netcoreapp3.1\Server.pdb
+D:\МОИ программы\Прикладные задачи принятий решений\Server\Server\obj\Debug\netcoreapp3.1\Server.genruntimeconfig.cache
